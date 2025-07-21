@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jwt-decode": "^4.0.0",
+    "react-chartjs-2": "^5.3.0"
+  }
+}
